@@ -1,0 +1,18 @@
+#------------------------------------+
+| Pandora's Box Multimedia Interface |
++------------------------------------#
+
+Pandora's Box is a new electronic musical instrument,
+with the aim of blurring the lines of the flow of
+information between person and electronics.
+
+It is a modular hardware platform which can be
+physically reconfigured, and it is built to be
+compatible with commonly used hobbyist microcontroller
+platforms, allowing straightforward user-customisation
+of its functions.
+
+It is currently in an initial prototype stage,
+with the hope that, once complete, all the design
+information needed to build one will be released
+under open source and open hardware licenses.
